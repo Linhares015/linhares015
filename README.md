@@ -6,6 +6,6 @@ Embora tenha navegado por diversos campos, meu coração sempre pulsou mais fort
 
 Rápido no aprendizado e adaptável por natureza, estou sempre pronto para os próximos desafios e inovações no mundo dos dados. Se você também é movido pela paixão por dados e busca um profissional dedicado e eficiente, está no lugar certo!
 
-[Blog](https://www.linharescorp.com/blog)
+[Blog](https://linhares015.github.io/)
 
 [Meu Livro](https://www.amazon.com.br/dp/B0CDDFZMLD?ref_=cm_sw_r_mwn_dp_VT4QMG06XS904M6EEQ3A)
