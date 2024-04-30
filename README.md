@@ -18,11 +18,13 @@
 </div>
 
 
-Desde os 12 anos, mergulhei no mundo profissional, cultivando valores como competência e comprometimento. Em cada área – de fábricas a finanças – sempre busquei excelência, conquistando promoções e reconhecimento.
+Desde meus primeiros passos na jornada profissional, percebi que minha verdadeira paixão residia na Tecnologia da Informação. Hoje, como Analytics Engineer, combino essa paixão com habilidades técnicas refinadas em ETL, SQL, e Business Intelligence para transformar informações complexas em insights acionáveis e histórias que impulsionam decisões estratégicas.
 
-Minha verdadeira paixão sempre foi a Tecnologia da Informação, e hoje, me realizo trabalhando com dados. Especializei-me em Business Intelligence, dominando ETL, SQL, gerenciamento de bancos de dados e ferramentas como Power BI. Tenho um talento especial para transformar dados brutos em narrativas impactantes, essenciais para decisões de negócios.
+Minha carreira até agora foi marcada por uma constante busca pelo conhecimento e pela excelência. Atuei em diversos setores, incluindo fabricação, vendas e finanças, onde não apenas executei minhas responsabilidades, mas sempre busquei ultrapassar as expectativas. Esse esforço resultou em várias promoções e reconhecimentos.
 
-Adaptável e ávido por aprendizado, estou sempre pronto para novos desafios e inovações no universo dos dados. Se compartilha da paixão por dados e busca um profissional dedicado, você está no lugar certo!
+Olhando para o futuro, meu objetivo é aprofundar ainda mais meus conhecimentos técnicos e liderar projetos inovadores em engenharia de dados. Estou particularmente interessado em explorar tecnologias emergentes de Big Data e inteligência artificial para otimizar a coleta e análise de dados em larga escala. Almejo uma posição onde possa impactar significativamente os processos de tomada de decisão, através da integração eficaz de tecnologias de dados avançadas.
+
+Estou comprometido com a aprendizagem contínua e planejo alcançar minhas metas através de uma combinação de educação formal, aprendizado prático e colaboração com profissionais que compartilham da mesma visão. Se você valoriza dedicação, inovação e uma abordagem orientada a resultados, acredito que podemos fazer grandes coisas juntos.
 
 
 
