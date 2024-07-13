@@ -44,7 +44,7 @@ Estou comprometido com a aprendizagem contínua e planejo alcançar minhas metas
 - **[Curso SQL](https://github.com/Linhares015/curso_sql)**: Curso completo de SQL para analistas de dados.
 
 ## Publicações
-- **[Guia para se Tornar um Analista de Dados](https://www.amazon.com.br/dp/B0CDDFZMLD?ref_=cm_sw_r_mwn_dp_VT4QMG06XS904M6EEQ3A)**: Livro focado em SQL para analistas de dados com exemplos práticos.
+- **[Guia para se Tornar um Analista de Dados](https://www.amazon.com.br/dp/B0CDDFZMLD?ref_=cm_sw_r_mwn_dp_VT4QMG06XS904M6EEQ3A)**: Livro focado em guiar a trajetórioa de analistas de dados.
 
 ## Estatísticas de Contribuições
 ![Contribuições GitHub](https://ghchart.rshah.org/Linhares015)
