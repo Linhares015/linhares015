@@ -29,7 +29,7 @@ Estou comprometido com a aprendizagem contínua e planejo alcançar minhas metas
 ## Habilidades Técnicas
 - **Linguagens de Programação**: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
   
-- **Ferramentas de ELT**: ![Pentaho](https://img.shields.io/badge/Pentaho-0059C9?style=for-the-badge&logo=pentaho&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) ![Apache Hop](https://img.shields.io/badge/Apache%20Hop-EE4C2C?style=for-the-badge&logo=apache-hop&logoColor=white) ![Airbyte](https://img.shields.io/badge/Airbyte-3A77FF?style=for-the-badge&logo=airbyte&logoColor=white)
+- **Ferramentas de ELT**: ![Pentaho](https://img.shields.io/badge/Pentaho-0059C9?style=for-the-badge&logo=pentaho&logoColor=white) ![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white) ![Apache Hop](https://img.shields.io/badge/Apache%20Hop-EE4C2C?style=for-the-badge&logo=apache-hop&logoColor=white) ![Airbyte](https://img.shields.io/badge/Airbyte-3A77FF?style=for-the-badge&logo=airbyte&logoColor=white) ![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 - **Banco de Dados**: ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLServer](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![Redshift](https://img.shields.io/badge/Amazon%20Redshift-232F3E?style=for-the-badge&logo=amazon-redshift&logoColor=white) ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
@@ -39,12 +39,11 @@ Estou comprometido com a aprendizagem contínua e planejo alcançar minhas metas
 
 - **Sistema Preferido**: ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+- **Cloud e Infraestrutura**: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 ## Projetos Destacados
 - **[Athena Stack Infra](https://github.com/Linhares015/athena_stack_infra)**: Infraestrutura de dados robusta utilizando Airflow, DBT e outras ferramentas.
 - **[Curso SQL](https://github.com/Linhares015/curso_sql)**: Curso completo de SQL para analistas de dados.
 
 ## Publicações
 - **[Guia para se Tornar um Analista de Dados](https://www.amazon.com.br/dp/B0CDDFZMLD?ref_=cm_sw_r_mwn_dp_VT4QMG06XS904M6EEQ3A)**: Livro focado em guiar a trajetórioa de analistas de dados.
-
-## Estatísticas de Contribuições
-![Contribuições GitHub](https://ghchart.rshah.org/Linhares015)
