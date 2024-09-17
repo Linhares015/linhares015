@@ -1,10 +1,36 @@
 ### Bem-vindo 🧙‍♂️
-<table>
-  <a href="https://github.com/Linhares015">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Linhares015&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linhares015&layout=compact&langs_count=6&theme=tokyonight"/>
-  </a>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/Linhares015">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Linhares015&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/Linhares015">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Linhares015&layout=compact&langs_count=6&theme=tokyonight&hide=html,scss"/>
+      </a>
+    </td>
+  </tr>
 </table>
+
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Linhares015.Linhares015" alt="Visitor Badge"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Linhares015&theme=tokyonight" alt="Contributions Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Linhares015&theme=tokyonight&row=1&column=6" alt="GitHub Trophies"/>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dynamic Quote"/>
+</p>
+
+
 
 <div> 
   <a href="https://www.linkedin.com/in/tiago-linhares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
