@@ -34,6 +34,7 @@
 
 <div> 
   <a href="https://www.linkedin.com/in/tiago-linhares/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://open.spotify.com/show/5ND7mQyODEHdwbDjCm67UC" target="_blank"><img src="https://img.shields.io/badge/Podcast-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Podcast no Spotify"></a>
   <a href="mailto:tiagolinhares051@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.udemy.com/user/tiago-linhares-2/" target="_blank"><img src="https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white" target="_blank"></a>
   <a href="https://www.amazon.com.br/dp/B0CDDFZMLD?ref_=cm_sw_r_mwn_dp_VT4QMG06XS904M6EEQ3A" target="_blank"><img src="https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white" target="_blank"></a>
