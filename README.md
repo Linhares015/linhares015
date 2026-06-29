@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:F59E0B&height=200&section=header&text=Tiago%20Linhares&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Especialista%20em%20Dados%20%26%20IA&descSize=18&descAlignY=75)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:F59E0B&height=200&section=header&text=Tiago%20Linhares&fontSize=40&fontColor=ffffff&animation=fadeIn&desc=Especialista%20em%20Dados%20%26%20IA&descSize=18&descAlignY=75" width="100%" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F59E0B&center=true&vCenter=true&width=700&lines=Especialista+em+Dados+%26+IA;Arquiteto+de+Data+Lakehouse+com+Databricks;100%2B+Pipelines+em+Produ%C3%A7%C3%A3o;Formei+100%2B+pessoas+em+Cultura+Data+Driven;Open+Source+%7C+Comunidade+%7C+Impacto+Real)](https://git.io/typing-svg)
 
@@ -38,10 +38,10 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tiago_Linhares-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-linhares/)
-[![GitHub](https://img.shields.io/badge/GitHub-Linhares015-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Linhares015)
-[![YouTube](https://img.shields.io/badge/YouTube-@TiagoLinhares015-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TiagoLinhares015)
-[![Udemy](https://img.shields.io/badge/Udemy-Projeto_Athena-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/tiago-linhares-2/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tiago-linhares/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Linhares015)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@TiagoLinhares015)
+[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=udemy&logoColor=white)](https://www.udemy.com/user/tiago-linhares-2/)
 
 </div>
 
@@ -107,8 +107,10 @@
 
 <div align="center">
 
-[![Athena Stack](https://github-readme-stats.vercel.app/api/pin/?username=Linhares015&repo=athena_stack_infra&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/Linhares015/athena_stack_infra)
-[![Curso SQL](https://github-readme-stats.vercel.app/api/pin/?username=Linhares015&repo=curso_sql&theme=tokyonight&show_icons=true&hide_border=true)](https://github.com/Linhares015/curso_sql)
+| [🏗️ athena_stack_infra](https://github.com/Linhares015/athena_stack_infra) | [📚 curso_sql](https://github.com/Linhares015/curso_sql) |
+|:---|:---|
+| Stack de dados do zero ao Databricks. Open Source, 3 níveis de maturidade. | Curso completo e gratuito de SQL para analistas e engenheiros de dados. |
+| ![Stars](https://img.shields.io/github/stars/Linhares015/athena_stack_infra?style=flat-square&color=F59E0B&label=stars) ![Forks](https://img.shields.io/github/forks/Linhares015/athena_stack_infra?style=flat-square&label=forks) ![Lang](https://img.shields.io/github/languages/top/Linhares015/athena_stack_infra?style=flat-square) | ![Stars](https://img.shields.io/github/stars/Linhares015/curso_sql?style=flat-square&color=F59E0B&label=stars) ![Forks](https://img.shields.io/github/forks/Linhares015/curso_sql?style=flat-square&label=forks) ![Lang](https://img.shields.io/github/languages/top/Linhares015/curso_sql?style=flat-square) |
 
 </div>
 
@@ -125,15 +127,7 @@ Curso completo de SQL para analistas e engenheiros de dados. Conteúdo prático 
 
 <div align="center">
 
-| GitHub Stats | Top Languages |
-|:---:|:---:|
-| [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Linhares015&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)](https://github.com/Linhares015) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Linhares015&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/Linhares015) |
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Linhares015&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Linhares015&theme=tokyonight&hide_border=true)](https://github.com/Linhares015)
 
 </div>
 
@@ -174,6 +168,6 @@ Curso completo de SQL para analistas e engenheiros de dados. Conteúdo prático 
 
 ![Visitors](https://komarev.com/ghpvc/?username=Linhares015&label=Visualizações%20do%20perfil&color=F59E0B&style=flat)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:0F172A&height=100&section=footer)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,100:0F172A&height=100&section=footer" width="100%" />
 
 </div>
